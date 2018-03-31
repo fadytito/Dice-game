@@ -106,7 +106,6 @@ var App = (function () {
         document.querySelector('.player-0-panel').classList.add('active');
 
         alert("GAME RULES:\n" +
-
             "- Firstly set the FINAL score.\n" +
             "- The game has 2 players, playing in rounds.\n" +
             "- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score\n" +
