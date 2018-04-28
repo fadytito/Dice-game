@@ -1,4 +1,6 @@
 # Dice-game
+Two-player rolling dice game.
+
 ## URL
 https://fadytito.github.io/Dice-game
 ## Technologies
